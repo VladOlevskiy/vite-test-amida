@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Nike",
+    "image": "/vite-test-amida/media/shoes/picture-nike-1.jpg",
+    "price": 200
+  },
+  {
+    "id": 2,
+    "name": "Nike",
+    "image": "/vite-test-amida/media/shoes/picture-nike-2.jpg",
+    "price": 200
+  },
+  {
+    "id": 3,
+    "name": "Nike",
+    "image": "/vite-test-amida/media/shoes/picture-nike-6.jpg",
+    "price": 200
+  },
+  {
+    "id": 4,
+    "name": "Nike",
+    "image": "/vite-test-amida/media/shoes/picture-nike-7.jpg",
+    "price": 200
+  },
+  {
+    "id": 5,
+    "name": "Nike",
+    "image": "/vite-test-amida/media/shoes/picture-nike-8.jpg",
+    "price": 200
+  },
+  {
+    "id": 6,
+    "name": "Nike",
+    "image": "/vite-test-amida/media/shoes/picture-nike-9.webp",
+    "price": 200
+  },
+  {
+    "id": 7,
+    "name": "Nike",
+    "image": "/vite-test-amida/media/shoes/picture-nike-10.webp",
+    "price": 200
+  },
+  {
+    "id": 8,
+    "name": "Nike",
+    "image": "/vite-test-amida/media/shoes/picture-nike-1.jpg",
+    "price": 200
+  },
+  {
+    "id": 9,
+    "name": "Puma",
+    "image": "/vite-test-amida/media/shoes/picture-puma-4.jpg",
+    "price": 200
+  },
+  {
+    "id": 10,
+    "name": "Puma",
+    "image": "/vite-test-amida/media/shoes/picture-puma-5.jpg",
+    "price": 200
+  }
+]
