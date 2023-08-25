@@ -1,0 +1,29 @@
+.card-basket__top {
+  border-radius: 25px;
+  background-color: rgba(0, 0, 0, 0.705);
+  padding: 25px;
+  margin-bottom: 60px;
+  justify-content: space-around;
+  align-items: center;
+  @media screen and (min-width: 1000px) {
+    display: flex;
+  }
+}
+
+.card-basket__text {
+}
+.card-basket__title {
+}
+.card-basket__top-text {
+  color: white;
+}
+
+.section-basket {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  height: 100vh;
+  background-image: url('../../media/svg-1.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
